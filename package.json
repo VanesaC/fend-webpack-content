@@ -21,7 +21,6 @@
     "@babel/preset-env": "^7.16.11",
     "babel-loader": "^8.2.4",
     "html-webpack-plugin": "^5.5.0",
-    "webpack-bundle-analyzer": "^4.5.0",
-    "webpack-dev-server": "^4.7.4"
+    "webpack-bundle-analyzer": "^4.5.0"
   }
 }
